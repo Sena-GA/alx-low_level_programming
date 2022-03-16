@@ -1,15 +1,12 @@
 #include "main.h"
-
 /**
  * main - prints the alphabet, in lowercase, followed by a new line.
  *
- * Prototype: void print_alphabet(void);
- *
- * You can only use _putchar twice in your code
+ * you can only use _putchar twice in your code
  *
  * Return: Always 0 (Success)
  */
-void print_alphabet(void)
+void print_alphabet(void);
 {
 	int i;
 
