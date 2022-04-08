@@ -1,4 +1,4 @@
-#include "main.h"
+eetinclude "main.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
@@ -122,4 +122,4 @@ addl = add / 10, nout[k] = (add % 10) + '0';
 }
 printf("%s\n", nout);
 return (0);
-}}
+}
